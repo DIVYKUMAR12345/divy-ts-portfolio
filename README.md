@@ -1,15 +1,15 @@
-# 💻 Kunj Desai — Portfolio Website 2
+# 💻 Divykumar Patel — Portfolio Website 2
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**,**Figma for Design** and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.Netligy.app/)
+🌐 **Website:** [[[]]](https://divykumar-patel.Netligy.app/)
 
 🖼️ **Screenshots**
 
-<img width="1906" height="996" alt="image" src="https://github.com/user-attachments/assets/6af39e75-5193-40c8-8647-895624cf75b6" />
-<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/7e734995-418f-4493-9bb3-955140c85488" />
-<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/cd87a897-50e0-4c96-94be-43e0846bc238" />
-<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/55400ed0-3b2a-4c88-ae61-a3ebe735a436" />
+<img width="1906" height="996" alt="image" src="https://github.com/user-attachments/assets/" />
+<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/" />
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/" />
+<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/" />
 ---
 
 ## 🚀 Features
@@ -42,10 +42,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunj-portfolio2.git
+git clone https://github.com/DIVYKUMAR12345/divy-ts-portfolio.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd divy-ts-portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -62,8 +62,8 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
+* 📧 **Email:** [pateldivy548@gmail.com](mailto:pateldivy548@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/divykumar-patel/](https://www.linkedin.com/in/divykumar-patel/)
 
 ---
 
