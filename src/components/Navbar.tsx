@@ -43,12 +43,12 @@ export function Navbar() {
   className="absolute left-4 top-1/2 -translate-y-1/2 flex items-center gap-3"
 >
   <div className="logo-rect">
-    <img
+    {/* <img
       src="/divy-brand-logo.png"
       alt="Divykumar Logo"
       className="logo-rect-img"
     />
-  </div>
+  </div> */}
 </motion.div>
 
 
