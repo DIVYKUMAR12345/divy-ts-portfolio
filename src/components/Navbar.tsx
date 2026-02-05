@@ -42,13 +42,13 @@ export function Navbar() {
   animate={{ opacity: 1, x: 0 }}
   className="absolute left-4 top-1/2 -translate-y-1/2 flex items-center gap-3"
 >
-  <div className="logo-rect">
-    {/* <img
+  {/* <div className="logo-rect">
+    <img
       src="/divy-brand-logo.png"
       alt="Divykumar Logo"
       className="logo-rect-img"
     />
-  </div> */}
+  </div>  */}
 </motion.div>
 
 
