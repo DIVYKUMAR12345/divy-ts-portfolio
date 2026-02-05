@@ -9,7 +9,7 @@ import Projects from "./components/Projects";
 import { Gallery } from "./components/Gallery";
 import { GalleryPage } from "./components/GalleryPage"; // <--- NEW PAGE IMPORT
 import { Skills } from "./components/Skills";
-import  Certificates from "./components/Certificates"; 
+import Certificates from "./components/Certificates";
 import { Resume } from "./components/Resume";
 import { Blog } from "./components/Blog";
 import { Contact } from "./components/Contact";
